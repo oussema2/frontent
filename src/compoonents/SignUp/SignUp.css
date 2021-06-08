@@ -1,0 +1,10 @@
+.mainDiv {
+    height: 600px;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+.text-stroke {
+    -webkit-text-stroke: 1px black;
+}
